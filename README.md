@@ -42,3 +42,9 @@ This project is built with:
 
   Used Supabase for backend and Jina AI API for summarizing
 
+## Time Spent
+
+- Spent about 2 hours building
+- Spent about 2 hours debugging
+- Spent about 1 hour configuring Supabase
+
