@@ -48,3 +48,5 @@ This project is built with:
 - Spent about 2 hours debugging
 - Spent about 1 hour configuring Supabase
 
+The LIVE DEMO : [Smart-link-digest](https://smart-link-digest.netlify.app/)
+
