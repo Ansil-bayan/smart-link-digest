@@ -40,8 +40,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-  Used Supabase for backend and Jina AI API for summarizing
+- Supabase for backend
+- Jina AI API for summarizing
 
 ## Time Spent
 
