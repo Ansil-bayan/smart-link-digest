@@ -45,8 +45,7 @@ serve(async (req) => {
     }
 
     // Fetch page content and generate summary using Jina AI
-    const targetUrl = encodeURIComponent(url);
-    const jinaResponse = await fetch(`https://r.jina.ai/http://${targetUrl}`, {
+    const jinaResponse = await fetch(`https://r.jina.ai/${url}`, {
       headers: {
         'Authorization': `Bearer ${jinaApiKey}`,
       },
