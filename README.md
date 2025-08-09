@@ -40,3 +40,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+  Used Supabase for backend and Jina AI API for summarizing
+
